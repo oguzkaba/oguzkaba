@@ -41,3 +41,9 @@
 ![reposize](https://img.shields.io/github/repo-size/oguzkaba/onesystem?logo=github)
 ![follwers](https://img.shields.io/github/followers/oguzkaba?logo=github)
 ![follwers](https://img.shields.io/github/watchers/oguzkaba/onesystem?logo=github)
+
+## Donate
+
+<a href="https://www.buymeacoffee.com/oguzkaba" target="_blank">
+      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
+  </a>
