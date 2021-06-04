@@ -46,5 +46,5 @@ I'm a developer of flutter, python, swift, kotlin and angular.
 ## Donate
 
 <a href="https://www.buymeacoffee.com/oguzkaba" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
+      <img width="10%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
