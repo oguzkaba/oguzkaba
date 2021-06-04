@@ -1,6 +1,7 @@
 ### Hi there 👋
+I'm a developer of flutter, python, swift, kotlin and angular. 
 
-<img src="steroidtocat.png" width = "300" height = "300" align = "center">I'm a developer of flutter, python, swift, kotlin and angular. 
+<img src="steroidtocat.png" width = "300" height = "300" align = "center">
 
 
 
