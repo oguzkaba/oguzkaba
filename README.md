@@ -40,8 +40,8 @@ I'm a developer of flutter, python, swift, kotlin and angular.
 ![last-commit](https://img.shields.io/github/last-commit/oguzkaba/onesystem?logo=github)
 ![state](https://img.shields.io/github/deployments/oguzkaba/onesystem/github-pages?logo=github)
 ![reposize](https://img.shields.io/github/repo-size/oguzkaba/onesystem?logo=github)
-![follwers](https://img.shields.io/github/followers/oguzkaba?logo=github)
-![follwers](https://img.shields.io/github/watchers/oguzkaba/onesystem?logo=github)
+<!--- ![follwers](https://img.shields.io/github/followers/oguzkaba?logo=github)--->
+![watchers](https://img.shields.io/github/watchers/oguzkaba/onesystem?logo=github)
 
 ## Donate
 
