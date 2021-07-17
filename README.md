@@ -37,10 +37,10 @@ I'm a developer of flutter, python, swift, kotlin and angular.
 ![profile views](https://komarev.com/ghpvc/?username=oguzkaba&label=profile+views&style=plastic)
 ![Website](https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https://oguzkaba.github.io)
 ![contributors](https://img.shields.io/github/all-contributors/all-contributors/all-contributors?logo=github)
-![last-commit](https://img.shields.io/github/last-commit/oguzkaba/onesystem?logo=github)
-![state](https://img.shields.io/github/deployments/oguzkaba/onesystem/github-pages?logo=github)
-![reposize](https://img.shields.io/github/repo-size/oguzkaba/onesystem?logo=github)
-![watchers](https://img.shields.io/github/watchers/oguzkaba/onesystem?logo=github)
+![last-commit](https://img.shields.io/github/last-commit/oguzkaba/iot_flutter_project?logo=github)
+![state](https://img.shields.io/github/deployments/oguzkaba/iot_flutter_project/github-pages?logo=github)
+![reposize](https://img.shields.io/github/repo-size/oguzkaba/iot_flutter_project?logo=github)
+![watchers](https://img.shields.io/github/watchers/oguzkaba/iot_flutter_project?logo=github)
 <!--- ![follwers](https://img.shields.io/github/followers/oguzkaba?logo=github)--->
 
 ## Donate
