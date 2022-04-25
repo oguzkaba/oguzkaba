@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a developer of flutter, python, swift, kotlin and angular. 
+I'm a developer of flutter, python, swift, kotlin. 
 
 <img src="steroidtocat.png" width = "300" height = "300" align = "center">
 
@@ -10,8 +10,7 @@ I'm a developer of flutter, python, swift, kotlin and angular.
 ![Flutter](https://img.icons8.com/color/48/000000/flutter.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![Swift](https://img.icons8.com/fluent/48/000000/swift.png)
-![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)
-![Angular](https://img.icons8.com/color/48/000000/angularjs.png)       
+![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)      
 
 
 ##### Database
@@ -21,6 +20,9 @@ I'm a developer of flutter, python, swift, kotlin and angular.
 ## Repos
 
 - [Onesystem](https://github.com/oguzkaba/onesystem)   Welding tracking system management coded with Flutter(Dart).
+- [Blogg App](https://github.com/oguzkaba/flutter_blog_app) Flutter blog app coded with Flutter(Dart).
+- [StackExchange App](https://github.com/oguzkaba/flutter_app_with_stackexchange) Flutter application with stackexchange api.
+- [TODO App](https://github.com/oguzkaba/flutter_firebase_crud) Todo App with Flutter and Firebase.
 - [QRScaner & Renamer](https://github.com/oguzkaba/python_projects/tree/master/___QR_Scaner)   QR code reader and renamer for PDF files coded with Python.
 - [Renamer Any Files](https://github.com/oguzkaba/python_projects/tree/master/___FilesRename)  	Renamer for any files coded with Python.
 - IOT project ...
