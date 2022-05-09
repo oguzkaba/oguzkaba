@@ -1,52 +1,63 @@
-### Hi there 👋
-I'm a developer of flutter, python, swift, kotlin. 
+Hi 👋 My name is Oğuz KABA
+==========================
 
-<img src="steroidtocat.png" width = "300" height = "300" align = "center">
+I'm a software developer.
+--------------------------------------------------
 
+*   🌍  I'm based in Kocaeli/Turkey
+*   ✉️  You can contact me at [Outlook](mailto:oguz-kaba@hotmail.com)
+*   🚀  I'm currently working on [OneSystem](http://onesystem.com)
 
+                 
+## Skills
+<p align="left">
 
-## Programming Languge / SDK / Database
-##### Programming Languge / SDK
-![Flutter](https://img.icons8.com/color/48/000000/flutter.png)
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![Swift](https://img.icons8.com/fluent/48/000000/swift.png)
-![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)      
+>Exprience
 
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a> 
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
+<a href="https://developer.android.com/kotlin/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/36/000000/kotlin.png" width="36" height="36" alt="Kotlin" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 
-##### Database
-![MySQL](https://img.icons8.com/fluent/48/000000/mysql-logo.png) 
-![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+>Learning
 
-## Repos
-
-- [Onesystem](https://github.com/oguzkaba/onesystem)   Welding tracking system management coded with Flutter(Dart).
-- [Blogg App](https://github.com/oguzkaba/flutter_blog_app) Flutter blog app coded with Flutter(Dart).
-- [StackExchange App](https://github.com/oguzkaba/flutter_app_with_stackexchange) Flutter application with stackexchange api.
-- [TODO App](https://github.com/oguzkaba/flutter_firebase_crud) Todo App with Flutter and Firebase.
-- [QRScaner & Renamer](https://github.com/oguzkaba/python_projects/tree/master/___QR_Scaner)   QR code reader and renamer for PDF files coded with Python.
-- [Renamer Any Files](https://github.com/oguzkaba/python_projects/tree/master/___FilesRename)  	Renamer for any files coded with Python.
-- IOT project ...
-- AI Project ...
-
-## Social
-<a href="https://www.linkedin.com/in/oğuz-kaba/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/oguzkaba-in-blue?style=flat&logo=linkedin"></a>
-
-## Statistics
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=oguzkaba&show_icons=true&theme=dracula"alt="oguzkaba :: Top Langs" /></p>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
+</p>
+                    
 
 
-![profile views](https://komarev.com/ghpvc/?username=oguzkaba&label=profile+views&style=plastic)
-![Website](https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https://oguzkaba.github.io)
-![contributors](https://img.shields.io/github/all-contributors/all-contributors/all-contributors?logo=github)
-![last-commit](https://img.shields.io/github/last-commit/oguzkaba/iot_flutter_project?logo=github)
-<!--- ![state](https://img.shields.io/github/deployments/oguzkaba/onesystem/github-pages?logo=github) -->
-![reposize](https://img.shields.io/github/repo-size/oguzkaba/iot_flutter_project?logo=github)
-![watchers](https://img.shields.io/github/watchers/oguzkaba/iot_flutter_project?logo=github)
-<!--- ![follwers](https://img.shields.io/github/followers/oguzkaba?logo=github)--->
+## Badges
 
-## Donate
+>My GitHub Stats
 
-<a href="https://www.buymeacoffee.com/oguzkaba" target="_blank">
-      <img width="10%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
-  </a>
+<a href="http://www.github.com/oguzkaba"><img src="https://github-readme-stats.vercel.app/api?username=oguzkaba&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="oguzkaba's GitHub stats" /></a>
+
+>Statistics
+
+<p align="left">
+<a href="https://www.github.com/oguzkaba" target="_blank" rel="noreferrer"><img alt="GitHub website"  src="https://komarev.com/ghpvc/?username=oguzkaba&label=profile+views&style=for-the-badge&color=0891b2&labelColor=1c1917"></a>
+<a href="https://www.github.com/oguzkaba" target="_blank" rel="noreferrer"><img alt="GitHub followers" src="https://img.shields.io/github/followers/oguzkaba?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>    
+<a href="https://www.github.com/oguzkaba" target="_blank" rel="noreferrer"><img alt="GitHub contributors"  src="https://img.shields.io/github/all-contributors/all-contributors/all-contributors?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"></a>
+<a href="https://www.github.com/oguzkaba" target="_blank" rel="noreferrer"><img alt="GitHub last-commit"  src="https://img.shields.io/github/last-commit/oguzkaba/flutter_blog_app?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"></a>
+<a href="https://www.github.com/oguzkaba" target="_blank" rel="noreferrer"><img alt="GitHub website"  src="https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https://oguzkaba.github.io?logo=github&style=for-the-badge&labelColor=1c1917"></a>
+<a href="https://www.github.com/oguzkaba" target="_blank" rel="noreferrer"><img alt="GitHub website"  src="https://img.shields.io/github/deployments/oguzkaba/oguzkaba.github.io/github-pages?logo=github&style=for-the-badge&labelColor=1c1917"></a>
+</p>
+
+## Socials                 
+<p align="left">                         
+<a href="https://www.github.com/oguzkaba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>                          
+<a href="https://www.linkedin.com/in/oğuz-kaba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>                     
+<a href="http://www.medium.com/oguzkaba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>                     
+<a href="https://www.stackoverflow.com/users/15551772/oguzkaba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>                 
+</p>
+
+## Support Me
+<a href="https://www.buymeacoffee.com/oguzkaba"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
